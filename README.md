@@ -1,1 +1,1 @@
-eu não gosto do vim
+eu NÃO gosto do vim

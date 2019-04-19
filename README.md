@@ -1,1 +1,1 @@
-This is the beggining of a new era
+This is the beginning of a new era
